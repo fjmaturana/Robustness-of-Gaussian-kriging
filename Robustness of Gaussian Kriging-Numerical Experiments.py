@@ -1,5 +1,4 @@
-"""Numerical experiments for "Robustness of Gaussian Kriging under
-Non-Gaussian Dependence: Exact Optimality and Eighth-Order Excess Risk".
+"""Numerical experiments for "Prediction Risk of Gaussian Kriging under Covariance-Preserving Non-Gaussian Dependence".
 
 The script reproduces the five numerical tables used by the manuscript:
 
