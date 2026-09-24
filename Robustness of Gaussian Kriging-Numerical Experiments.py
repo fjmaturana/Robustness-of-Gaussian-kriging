@@ -184,7 +184,7 @@ def mixture_experiment(
     gaussian_weights, kriging_variance = kriging_coefficients(sigma)
     gaussian_prediction = observations @ gaussian_weights
 
-    # Compute the exact conditional mean from Theorem 3 in the manuscript.
+    # Compute the exact conditional mean from Theorem 6 in the manuscript.
     # Partition Sigma and b according to target and observations.
     b0 = b[0]
     v = b[1:]
