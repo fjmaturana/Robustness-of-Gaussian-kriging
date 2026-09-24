@@ -1,4 +1,4 @@
-"""Numerical experiments for "Prediction Risk of Gaussian Kriging under Covariance-Preserving Non-Gaussian Dependence".
+"""Numerical experiments for "Higher-Order Robustness of Gaussian Kriging under Covariance-Preserving Non-Gaussian Dependence".
 
 The script reproduces the five numerical tables used by the manuscript:
 
